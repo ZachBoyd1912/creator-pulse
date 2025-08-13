@@ -1,1 +1,1 @@
-
+fastapi uvicorn pandas pillow pytesseract
